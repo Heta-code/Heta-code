@@ -12,7 +12,7 @@ I'm an Applied Computing graduate interested in building practical machine learn
 - 🔬 Experience with applied AI/ML and data science research
 - 🧠 Interested in machine learning, data analytics, optimization, and intelligent systems
 - 🔐 Exploring secure and privacy-preserving machine learning
-- 🌱 Currently strengthening production-level Python, SQL, ML, and software engineering skills
+- 🌱 Building portfolio-grade ML systems with a focus on production-ready Python, SQL, and software engineering
 - 💼 Open to opportunities in **AI/ML, Data Science, and Data Analytics**
 
 ---
