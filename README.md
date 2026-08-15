@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Heta 👋
 
-<!--
-**Heta-code/Heta-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML • Data Science • Applied Research
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently / Recently
+• Applied ML research
+• Quantum optimization / D-Wave
+• Secure federated learning
+• Data analytics
+
+Featured Projects
+
+🌲 Quantum Forest Optimization
+🔐 Secure Federated Learning
+🚗 VANET GPS Spoofing Detection
+🧠 Neural Networks + Clustering
+🏘️ Housing Data Analytics
+
+Technical Toolbox
+
+Python • SQL • scikit-learn • Pandas • NumPy
+ML • Data Analysis • Cybersecurity • Quantum Optimization
+
+Currently
+→ Improving production ML skills
+→ Building portfolio-grade ML systems
+→ Looking for AI/ML/Data opportunities
+
+Contact
+LinkedIn
+Email
